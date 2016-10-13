@@ -1,0 +1,57 @@
+
+
+body
+{
+	background-color: white;
+
+}
+
+header
+{
+	background-color: red;
+    width: 600px;
+	height: 150px;
+    border:1px groove black;
+    padding: 25px;
+    margin: 25px;
+
+}
+nav
+ {
+ background-color: lightgrey;
+    width: 600px;
+    border:1px solid black;
+    padding: 10px;
+    margin: 25px;
+
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    width: 60px;
+}
+
+li a {
+    display: block;
+    background-color: #dddddd;
+}
+
+
+
+main{
+    background-color: lightgrey;
+    width: 600px;
+    border: 25px solid green;
+    padding: 25px;
+    margin: 25px;
+}
+footer{
+	background-color: black;
+    width: 600px;
+    border: 2px solid white;
+    padding: 25px;
+    margin: 25px;
+
+}
